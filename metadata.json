@@ -2,9 +2,7 @@
   "name": "Karol Pi Wiczling Coin",
   "symbol": "KPIW",
   "description": "Personal Token of Karol Wiczling",
-  "image": "https://www.arweave.net/abcd5678?ext=png",
-  "animation_url": "https://www.arweave.net/efgh1234?ext=mp4",
-  "external_url": "https://solflare.com",
+  "image": "https://raw.githubusercontent.com/K-Wiczling/KPIW/main/Logo193.png",
   "attributes": [
     "category": "img",
     "creators": [
